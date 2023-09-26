@@ -1,0 +1,1 @@
+# projeto-pokedex-manual-do-dev
