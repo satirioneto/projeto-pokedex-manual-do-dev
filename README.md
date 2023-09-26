@@ -27,5 +27,5 @@ Para usar o projeto, siga estas etapas:
 
 ## Créditos
 
-- Tutorial original no canal "Manual do Dev": [Link para o Tutorial](https://www.youtube.com/watch?v=Uptu3NrBFBM](https://www.youtube.com/watch?v=SjtdH3dWLa8&t=2145s)
+- Tutorial original no canal "Manual do Dev": [Link para o Tutorial](https://www.youtube.com/watch?v=Uptu3NrBFBM)
 - API PokeAPI: [pokeapi.co](https://pokeapi.co/)
